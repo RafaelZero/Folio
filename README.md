@@ -5,4 +5,4 @@ Conocimiento de administración y respaldo de servidores de la plataforma en la 
 Manejo de herramientas para la gestión de actividades en Trello y gestión de versiones de código en GitHub.
 
 Certificados de cursos en tecnologías de la información e inglés:
-https://bit.ly/3AV2gAj
+https://bit.ly/3wJ6QQx
