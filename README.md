@@ -8,7 +8,8 @@ Programador backend con 3 años de experiencia en administración de base de dat
 * Datos de productos, materiales para la producción
 * Datos de usuario
 * Verificación de precios, inserción de precios a nuevos productos
-Desde el sistema ERP Odoo.
+
+    Desde el sistema ERP Odoo.
 
 Manejo (nivel intermedio) de herramientas ofimáticas Excel, Word, ejecución de migraciones desde Excel a bases de datos; con MS Office y LibreOffice.
 Con actividades de control de inventario y precios.
