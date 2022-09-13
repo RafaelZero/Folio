@@ -1,0 +1,7 @@
+    Trabajos/Proyectos anteriores:
+---
+* Migración de inventario; productos y almacenes, desde Excel a la base de datos PostgreSQL funcional del sistema ERP Odoo.
+* Implementación de Trigger para bloquear ventas por falta de stock: https://github.com/RafaelZero/Folio/issues/2.
+* Modificación de precios de los productos de inventario.
+* Y, mantenimiento de la base de datos, junto a respaldo diario del servidor.
+Trabajos realizados en el sitio web https://asiasurimportaciones.com/.
