@@ -26,6 +26,6 @@ Certificados de cursos en tecnologías de la información e inglés:
 https://bit.ly/3d8T17w
 ___
 
-Portfolio de trabajos y proyectos anteriores:
+Trabajos y proyectos anteriores:
 ---
 https://bit.ly/3DuOs1Y
