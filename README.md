@@ -2,7 +2,7 @@
 Resume
 ---
 ___
-Programador backend con 3 años de experiencia en administración de base de datos y analista funcional de datos para e-commerce:
+Analista de ecommerce con 3 años de experiencia en administración de base de datos y analista funcional de datos para e-commerce:
 * Funcionamiento del sitio web y servidores en AWS
 * Funcionamiento de foros, blogs, CRM
 * Datos de productos, materiales para la producción
