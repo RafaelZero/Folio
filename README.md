@@ -2,7 +2,7 @@
 Resume
 ---
 ___
-Analista de ecommerce con 3 años de experiencia en administración de base de datos y analista funcional de datos para e-commerce:
+Analista con 3 años de experiencia en administración de base de datos PostgreSQL y registro de datos para un óptimo funcionamiento de ecommerce.:
 * Funcionamiento del sitio web y servidores en AWS
 * Funcionamiento de foros, blogs, CRM
 * Datos de productos, materiales para la producción
@@ -12,11 +12,11 @@ Analista de ecommerce con 3 años de experiencia en administración de base de d
     Desde el sistema ERP Odoo.
 
 Manejo (nivel intermedio) de herramientas ofimáticas Excel, Word, ejecución de migraciones desde Excel a bases de datos; con MS Office y LibreOffice.
-Con actividades de control de inventario y precios.
+Con actividades de control de usuarios, inventario, precios y materiales.
 
-Conocimiento de administración, monitoreo, lanzamiento de nuevos servidores; con su respectiva configuración, y respaldos de la plataforma en la nube de AWS EC2 y AWS Lightsail.
+Conocimiento en administración, lanzamiento y respaldo de servidores de los servicios en la nube de las plataformas AWS EC2 y Lightsail.
 
-Manejo de herramientas para la gestión de actividades grupales en Trello y gestión de versiones de código en GitHub.
+Manejo de herramientas para la gestión de actividades en grupo como Trello y gestión de versión de código en GitHub.
 
 Dominio intermedio de Inglés.
 ___
