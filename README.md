@@ -6,8 +6,9 @@ ___
 
 Proyectos
 ---
-* En Github
+* En Github:
 
+https://github.com/RafaelZero/Folio/tree/main/Certificates
 
 * En Notion:
 
