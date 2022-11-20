@@ -10,7 +10,8 @@ Proyectos
 * En Github
 
 
-* En Notion
+* En Notion:
+
 https://little-river-3aa.notion.site/Manipulaci-n-y-visualizaci-n-de-datos-de-un-dataset-basado-en-Netflix-d1fb623b95584d658fbd0863ce135104
 ___
 
