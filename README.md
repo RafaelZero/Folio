@@ -16,8 +16,3 @@ Certificados
 ---
 https://github.com/RafaelZero/Folio/tree/main/Certificates
 ___
-
-Trabajos
----
-https://bit.ly/3DuOs1Y
-___
