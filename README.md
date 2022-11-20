@@ -7,20 +7,17 @@ ___
 Proyectos
 ---
 * En Github:
-
-https://github.com/RafaelZero/Folio/tree/main/Certificates
-
+https://github.com/RafaelZero/Folio/tree/main/Projects
 * En Notion:
-
 https://little-river-3aa.notion.site/Manipulaci-n-y-visualizaci-n-de-datos-de-un-dataset-basado-en-Netflix-d1fb623b95584d658fbd0863ce135104
 ___
+
 Certificados
 ---
-https://github.com/RafaelZero/Folio/tree/main/Data%20viz%20of%20netflix%20dataset
+https://github.com/RafaelZero/Folio/tree/main/Certificates
 ___
 
 Trabajos
 ---
 https://bit.ly/3DuOs1Y
-
 ___
