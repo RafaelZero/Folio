@@ -1,6 +1,5 @@
 # 
 Perfil
----
 ___
 Analista de datos en crecimiento con 3 años de experiencia en administración de base de datos PostgreSQL; con conocimientos en otras bases de datos como MySQL y MariaDB, registro de datos para un óptimo funcionamiento de sitio web (CMS) y e-commerce en el software administrativo ERP Odoo y Microsoft Office Excel, gestor de servidores (administración, lanzamiento y respaldo de servidores) en el servicio en la nube Amazon Web Services, y un dominio intermedio en el idioma Inglés.
 ___
