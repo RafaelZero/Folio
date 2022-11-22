@@ -1,7 +1,7 @@
 # 
 Resume
 ___
-Data analyst with 3 years of PostgreSQL database administration experience; with knowledge of other databases such as MySQL and MariaDB, data recording for optimal website operation (on CMS) and e-commerce in the administrative software ERP Odoo and Microsoft Office Excel, server manager (administration, launch and backup of servers) in the cloud service Amazon Web Services, and an intermediate domain in the English language.
+Data analyst with 3 years of PostgreSQL developer experience; with knowledge of other databases such as MySQL and MariaDB, data recording for optimal website operation (on CMS) and e-commerce in the administrative software ERP Odoo and Microsoft Office Excel, server manager (administration, launch and backup of servers) in the cloud service Amazon Web Services, and an intermediate domain in the English language.
 ___
 
 Projects
