@@ -7,10 +7,12 @@ ___
 
 Projects
 ---
-* In Github:
+* Github:
 https://github.com/RafaelZero/Projects
-* In Notion:
+* Notion:
 https://rafaelmv.notion.site/Portafolio-092459ff3fdc490bb6e7ed80f25eb08c
+* Maven Analytics:
+https://www.mavenanalytics.io/profile/Agustin-Mata/130637519
 ___
 
 Certificates
