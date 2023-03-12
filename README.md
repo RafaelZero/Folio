@@ -1,5 +1,6 @@
-# 
-Resume
+#
+Data Analyst - Agustin Mata
+---
 ___
 Analyst with 3 years experienced as an Odoo analyst and database SQL developer specialist in PostgreSQL; with knowledge of other databases such as MariaDB, MySQL and SQL Server, in the R programming language and the Business Intelligence Looker Studio tool, management of e-commerce with the administrative software ERP Odoo, Microsoft Office Excel, LibreOffice and Google Sheets, server management (administration, launch and backup of servers) in Amazon Web Services cloud services, and an intermediate level-English language.
 
@@ -16,7 +17,7 @@ https://www.mavenanalytics.io/profile/Agustin-Mata/130637519
 
 ___
 
-Triggers Done in DBRMS PostgreSQL
+Triggers in DBRMS PostgreSQL
 ---
 https://github.com/RafaelZero/Portfolio/issues?q=is%3Aissue+is%3Aclosed
 ___
