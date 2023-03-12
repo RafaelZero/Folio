@@ -16,7 +16,7 @@ https://www.mavenanalytics.io/profile/Agustin-Mata/130637519
 
 ___
 
-Develop of Triggers to DBRMS PostgreSQL
+Triggers Done in DBRMS PostgreSQL
 ---
 https://github.com/RafaelZero/Portfolio/issues?q=is%3Aissue+is%3Aclosed
 ___
